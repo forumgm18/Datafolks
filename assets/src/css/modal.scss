@@ -1,0 +1,3 @@
+.modal.show{
+    @include media-breakpoint-up(md) {display: flex!important;}
+}
